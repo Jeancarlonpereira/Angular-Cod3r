@@ -1,5 +1,5 @@
-import { ProductsDeleteComponent } from './components/products/products-delete/products-delete.component';
-import { ProductsUpdateComponent } from './components/products/products-update/products-update.component';
+import { ProductsDeleteComponent } from './components/product/product-delete/products-delete.component';
+import { ProductsUpdateComponent } from './components/product/product-update/products-update.component';
 import { NgModule, Component } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { HomeComponent } from './views/home/home.component';
