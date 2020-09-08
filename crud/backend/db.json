@@ -6,18 +6,13 @@
       "price": 2.5
     },
     {
-      "id": 2,
-      "name": "Notebook Mac Pro",
-      "price": 12000
-    },
-    {
       "id": 3,
-      "name": "Sansumg S20+",
-      "price": 5000
+      "name": "Sansumg S20+ plus Ultra",
+      "price": "7500.20"
     },
     {
-      "name": "Lápis Preto",
-      "price": "2.30",
+      "name": "Lápis Preto básico",
+      "price": "1.50",
       "id": 4
     }
   ]
